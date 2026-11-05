@@ -1,0 +1,8 @@
+sources:
+  - name: stripe
+    database: back_to_school
+    schema: stripe
+    tables: 
+    - name: payment
+    
+  
